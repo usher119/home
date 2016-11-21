@@ -63,3 +63,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u4_img {
+  position:absolute;
+  left:-4px;
+  top:-4px;
+  width:40px;
+  height:40px;
+}
+#u4 {
+  position:absolute;
+  left:280px;
+  top:241px;
+  width:30px;
+  height:30px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
